@@ -1,5 +1,5 @@
 # Bone-Buzzer
-An open source music and gaming aid for the deaf. 
+An open source music and gaming aid for the deaf.
 
 <br>
 <br>
@@ -13,7 +13,7 @@ The Bone Buzzer is a simple  electronic device that converts sounds of specific 
 
 The prototype shown above transmits low frequency sounds like music bass and video game gun shots. It's powered by a 9V battery and  plugs into mobile phones and laptops via a headphone jack. It’s important to note that the circuit is just a proof of concept that I fabricated using components I had available. It works but the circuit design still needs to be engineered. For example, the transistors are not correctly rated for the motor current and the motor is being run above its rated voltage.
 
-This is a work in progress. I will update this repo as the project progresses. If you have questions or would like to offer advice, please click the 'Comments' option above.
+I will update this repo as the project progresses. If you have questions or would like to offer advice, please click the 'Comments' option above.
 
 <b>Next Step</b>
 <br>
@@ -21,3 +21,8 @@ Check if this prototype solves a real problem for deaf music lovers and gamers. 
 
 <br>
 To date the development process has been iterative and messy. Here are a few failures...
+
+<br>
+<br>
+<img src="http://bee.test.woza.work/assets/failures.jpg" width="500"></img>
+<br>
