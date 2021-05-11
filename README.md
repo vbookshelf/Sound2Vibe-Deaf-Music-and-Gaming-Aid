@@ -13,7 +13,7 @@ The Bone Buzzer is a simple  electronic device that converts sounds of specific 
 
 The prototype shown above transmits low frequency sounds like music bass and video game gun shots. It's powered by a 9V battery and  plugs into mobile phones and laptops via a headphone jack. It’s important to note that the circuit is just a proof of concept that I fabricated using components I had available. It works but the circuit design still needs to be engineered. For example, the transistors are not correctly rated for the motor current and the motor is being run above its rated voltage.
 
-I will update this repo as the project progresses. If you have questions or would like to offer advice, please click the 'Comments' option above.
+I will update this repo as the project progresses. If you have questions or would like to offer advice, please click the 'Discussions' option above to leave a comment.
 
 <b>Next Step</b>
 <br>
