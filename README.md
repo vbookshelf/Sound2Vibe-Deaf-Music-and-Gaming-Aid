@@ -21,7 +21,7 @@ I will update this repo as the project progresses. If you have questions or woul
 
 <b>Next Step</b>
 <br>
-Check if this prototype solves a real problem for deaf music lovers and gamers. In other words ... can it add real value to people's lives?
+Field test the prototype to assess whether or not this kind of device can add value to people's lives. If not then this project should be cancelled.
 
 <br>
 To date the development process has been iterative and messy. Here are a few failures...
