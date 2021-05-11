@@ -1,5 +1,5 @@
 ## Sound2Vibe - Deaf Music and Gaming Aid
-This device can help hearing impaired people feel music bass, video game sounds and spoken words, as vibrations.
+This device can help hearing impaired people feel music bass, video game sounds and spoken words.
 <br>
 <br>
 
