@@ -1,6 +1,6 @@
 # Bone-Viber
 An  electronic open source music and gaming aid for the deaf.<br>
-Plug the audio jack into a phone or laptop. Stick the coin vibrating motor to your body - wrist, ear bone, chest bone etc. - using masking tape or bandage tape. This device will help you feel sounds as vibrations.
+Plug the audio jack into a phone or laptop. Stick the coin vibrating motor to your body - wrist, ear bone, chest bone etc. - using masking tape or bandage tape. This device will help you feel music, video game sounds or spoken words as vibrations.
 <br>
 <br>
 
