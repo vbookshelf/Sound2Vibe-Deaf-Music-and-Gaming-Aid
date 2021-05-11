@@ -1,6 +1,5 @@
 ## Bone Viber - Deaf Music and Gaming Aid
-An  electronic open source music and gaming aid for the deaf.<br>
-Plug the audio jack into a phone or laptop. Stick the coin vibrating motor to your body - wrist, ear bone, chest bone etc. - using masking tape or bandage tape. This device will help you feel music bass, video game sounds or spoken words as vibrations.
+This device can help hearing impaired people feel music bass, video game sounds or spoken words as vibrations.
 <br>
 <br>
 
@@ -22,7 +21,7 @@ I will update this repo as the project progresses. If you have questions or woul
 
 <b>Next Step</b>
 <br>
-Check if this prototype solves a real problem for deaf music lovers and gamers. In other words ... is there product-market-fit?
+Check if this prototype solves a real problem for deaf music lovers and gamers. In other words ... can it add real value to people's lives?
 
 <br>
 To date the development process has been iterative and messy. Here are a few failures...
