@@ -1,5 +1,5 @@
 # Bone-Viber
-An open source music and gaming aid for the deaf.
+An  electronic open source music and gaming aid for the deaf.
 
 <br>
 <br>
@@ -9,7 +9,7 @@ An open source music and gaming aid for the deaf.
 <br>
 
 
-The Bone Viber is a simple  electronic device that converts sounds, from a defined frequency range, into haptic vibrations. The vibrations are created by a coin vibration motor. These vibrations can be felt through the skin or through bone conduction. Holding the vibration motor against the bone behind the ear or against the chest bone appears to produce the best effect.
+The Bone Viber is an electronic device that converts sounds, from a pre-defined frequency range, into haptic vibrations. The vibrations are created by a coin vibration motor. These vibrations can be felt through the skin or through bone conduction. Holding the vibration motor against the bone behind the ear or against the chest bone appears to produce the best effect.
 
 The prototype shown above transmits low frequency sounds like music bass and video game gun shots (30Hz - 500Hz). It's powered by a 9V battery and  plugs into mobile phones and laptops via a headphone jack. It’s important to note that the circuit is just a proof of concept that I fabricated using components I had available. It works but the circuit design still needs to be engineered. For example, the transistors are not correctly rated for the motor current and the motor is being run above its rated voltage.
 
