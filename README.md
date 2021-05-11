@@ -13,6 +13,11 @@ The Bone Viber is an electronic device that converts sounds, from a pre-defined 
 
 The prototype shown above transmits low frequency sounds like music bass and video game gun shots (30Hz - 500Hz). It's powered by a 9V battery and  plugs into mobile phones and laptops via a headphone jack. It’s important to note that the circuit is just a proof of concept that I fabricated using components I had available. It works but the circuit design still needs to be engineered. For example, the transistors are not correctly rated for the motor current and the motor is being run above its rated voltage.
 
+This device can be made at home by anyone with a basic knowledge of analog electronics. In fact the circuit can be bread-boarded in less than an hour. If you have no electronics knowledge then I recommend taking this excellent Udemy course by Ian Juby. It will teach you everything you need in order to understand this circuit. The course has subtitles and is therefore accessible to deaf students.<br>
+<br>
+Electricity & electronics - Robotics, learn by building<br>
+https://www.udemy.com/course/analog-electronics-robotics-learn-by-building/
+
 I will update this repo as the project progresses. If you have questions or would like to offer advice, please click the 'Discussions' option above to leave a comment.
 
 <b>Next Step</b>
