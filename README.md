@@ -33,3 +33,7 @@ To date the development process has been iterative and messy. Here are a few fai
 <br>
 <img src="http://bee.test.woza.work/assets/failures.jpg" width="500"></img>
 <br>
+
+### Notes
+
+1- I added a diode across the motor to prevent damage to the circuit by flyback voltage. This is not shown on the wiring diagram, but the diode is shown on the image above.
