@@ -20,7 +20,7 @@ This YouTube tutorial series is another excellent resource for learning eletroni
 Math and Science Tutor<br>
 https://www.youtube.com/watch?v=OGa_b26eK2c&list=PLnVYEpTNGNtUSjEEYf01D-q4ExTO960sG
 
-I will update this repo as the project progresses. If you have questions or would like to offer advice, please click the 'Discussions' option above to leave a comment.
+If you have questions or would like to offer advice, please click the 'Discussions' option above to leave a comment.
 
 <b>Next Step</b>
 <br>
@@ -36,4 +36,4 @@ To date the development process has been iterative and messy. Here are a few fai
 
 ### Notes
 
-1- I added a diode across the motor to prevent damage to the circuit by flyback voltage. This is not shown on the wiring diagram, but the diode is shown on the image above.
+1- I added a diode across the motor to prevent damage to the circuit by flyback voltage. This is not shown on the wiring diagram, but the diode is shown on the first image above.
